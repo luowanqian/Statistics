@@ -1,0 +1,4 @@
+Perfect	Satisfactory	Defective
+106	124	1
+67	85	1
+37	72	3
